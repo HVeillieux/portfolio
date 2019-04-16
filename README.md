@@ -1,3 +1,22 @@
+My Bootstrap 4 template is licenced under MIT License
+https://opensource.org/licenses/MIT
+https://bootsnipp.com/snippets/aMVZE Information Cards
+
+Validator:
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fhveillieux.github.io%2Fportfolio%2F
+
+Speed Test:
+https://www.webpagetest.org/result/190416_8Q_dfc879a91f43c0208ec96676f635f5f2/
+
+LinkedIn link:
+www.linkedin.com/in/hayden-veillieux
+
+** ALL IMAGES ARE MINE.
+
+Made with ❤ in Github
+
+______________________________________________________________________________________________________________________________________
+
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
