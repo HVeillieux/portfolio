@@ -306,13 +306,15 @@ footer {
 
 /*--------- CARDS GALLERY ---------*/
 .gallery-block{
+  font-family: 'Varela Round';
 	padding-bottom: 60px;
 	padding-top: 60px;
 }
 
 .gallery-block .heading{
-    margin-bottom: 50px;
-    text-align: center;
+  font-family: 'Varela Round';
+  margin-bottom: 50px;
+  text-align: center;
 }
 
 .gallery-block .heading h2{
